@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Trần Văn Trường 👋
 
-<!--
-**3mazch/3mazch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Python · SQL · Power BI
 
-Here are some ideas to get you started:
+Tôi có background trong Machine Learning và Data Science,
+hiện tập trung vào phân tích dữ liệu để tạo ra insight
+có thể hành động được cho doanh nghiệp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Projects
+| Project | Domain | Tools | Link |
+|---------|--------|-------|------|
+| E-commerce Sales Analysis | Retail | SQL, Python, Power BI | [→](#) |
+| Customer Churn Analysis   | Telecom | SQL, Python, Seaborn  | [→](#) |
+
+## 🛠 Skills
+SQL · Python (pandas, seaborn, matplotlib) · Power BI · Excel
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/tranvantruong/) · [Email](contact.tranvantruong@gmail.com)
