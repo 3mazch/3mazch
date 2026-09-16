@@ -9,8 +9,6 @@ có thể hành động được cho doanh nghiệp.
 ## 🔍 Projects
 | Project | Domain | Tools | Link |
 |---------|--------|-------|------|
-| E-commerce Sales Analysis | Retail | SQL, Python, Power BI | [→](#) |
-| Customer Churn Analysis   | Telecom | SQL, Python, Seaborn  | [→](#) |
 
 ## 🛠 Skills
 SQL · Python (pandas, seaborn, matplotlib) · Power BI · Excel
